@@ -11,7 +11,7 @@
   import Konten from "./components/Konten"
   import Main from "./components/Main"
   export default {
-      components: { Header, Konten, Main }
+      components: { Header, Konten, Main },
       } 
 </script>
 
