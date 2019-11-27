@@ -1,15 +1,23 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <div id="app">
+      <Header></Header>
+      <Konten></Konten> 
+      <Main></Main> 
     </div>
-    <router-view/>
-  </div>
 </template>
 
+<script>
+  import Header from "./components/Header" 
+  import Konten from "./components/Konten"
+  import Main from "./components/Main"
+  export default {
+      components: { Header, Konten, Main }
+      } 
+</script>
+
+
 <style>
-#app {
+/* #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -28,5 +36,5 @@
 
 #nav a.router-link-exact-active {
   color: #42b983;
-}
+} */
 </style>
