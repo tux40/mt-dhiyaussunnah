@@ -10,8 +10,9 @@
             <div class="main-menubar d-flex align-items-center">
               <nav class="hide">
                 <a href="index.html">Home</a>
-                <a href="generic.html">Selayang Pandang</a>
-                <a href="elements.html">Galeri</a>
+                <a href="#">Selayang Pandang</a>
+                <a href="galeri.html">Galeri</a>
+                <a href="usaha.html">Usaha Ikhwan</a>
               </nav>
               <div class="menu-bar">
                 <span class="lnr lnr-menu"></span>

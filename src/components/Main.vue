@@ -203,9 +203,10 @@
         <div class="container">
             <div class="footer-content d-flex flex-column align-items-center">
                 <div class="footer-menu">
-                    <a href="#">Home</a>
+                    <a href="index.html">Home</a>
                     <a href="#">Selayang Pandang</a>
-                    <a href="#">Galeri</a>
+                    <a href="galeri.html">Galeri</a>
+                    <a href="usaha.html">Usaha Ikhwan</a>
                 </div>
                 <div class="footer-social">
                     <a href="#"><i class="fa fa-facebook"></i></a>
