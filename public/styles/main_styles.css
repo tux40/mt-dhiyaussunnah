@@ -212,7 +212,7 @@ section
 {
 	width: 100%;
 	overflow: hidden;
-	padding-left: 263px;
+	/* padding-left: 263px; */
 }
 .prlx_parent
 {
@@ -1504,7 +1504,7 @@ section
 .footer
 {
 	width: 100%;
-	background: #f6f8fa;
+	background: #ffffff;
 }
 .footer_content
 {
@@ -1513,7 +1513,7 @@ section
 }
 .footer_logo
 {
-	width: 389px;
+	width: 300px;
 }
 .footer_logo a
 {
@@ -1525,11 +1525,11 @@ section
 	padding-top: 13px;
 	padding-bottom: 13px;
 	text-align: center;
-	font-size: 48px;
+	font-size: 37px;
 	font-weight: 700;
 	line-height: 0.75;
 	color: #bbe432;
-	padding-left: 25px;
+	padding-left: 18px;
 	padding-right: 26px;
 }
 .footer_logo a > div span
@@ -1540,7 +1540,8 @@ section
 .footer_about_text
 {
 	padding-right: 50px;
-	margin-top: 57px;
+	margin-top: 10px;
+	color: #070707;
 }
 .cards
 {
@@ -1696,11 +1697,11 @@ section
 .footer_contact
 {
 	margin-top: 8px;
-	padding-right: 50px;
+	padding-right: 10px;
 }
 .footer_contact_list
 {
-	margin-top: 88px;
+	margin-top: 20px;
 	padding-right: 20px;
 }
 .footer_contact_list ul li:not(:last-child)
@@ -1711,14 +1712,14 @@ section
 {
 	font-size: 14px;
 	font-weight: 700;
-	color: #bbe432;
+	color: #070707;
 }
 .footer_contact_list ul li div
 {
 	padding-left: 14px;
 	font-size: 14px;
 	font-weight: 400;
-	color: #8f8f8f;
+	color: #070707;
 	line-height: 1.75;
 	margin-top: -1px;
 }
