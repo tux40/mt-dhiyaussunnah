@@ -46,7 +46,7 @@
                         </div>
                         <div class="item">
                             <h3>To Be Confirm</h3>
-                            <p>Usage of the Internet is becoming more common due to rapid advancement of technology and the power of globalization. Societies are becoming more inter-connected. Thoughts from different</p>
+                            <p>Isilah Waktu Dengan Hal hal yang bermanfaat</p>
                         </div>
                     </div>
                 </div>
